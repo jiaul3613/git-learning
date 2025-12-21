@@ -1,0 +1,21 @@
+git -v 
+
+git config --get user.name 
+git config --get user.email
+
+git config --global user.name "jiaul"
+git config --global user.email "jiaul3613@gmail.com"
+
+
+git init  
+
+git stauts 
+git add .
+
+git commit -m 'i have added a line '
+
+
+
+
+
+
