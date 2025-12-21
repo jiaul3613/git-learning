@@ -25,6 +25,9 @@ git reflog
 git rm --cached talk.js
 
 
+git rm talk.js
+
+
 
 
 
