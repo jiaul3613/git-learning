@@ -16,6 +16,19 @@ git commit -m 'i have added a line '
 
 git log
 
+git log --oneline
+
+git reset --hard 
+
+git reflog
+
+git rm --cached talk.js
+
+
+
+
+
+
 
 
 
