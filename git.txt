@@ -27,6 +27,10 @@ git rm --cached talk.js
 
 git rm talk.js 
 
+branch -M main
+git push -u origin main 
+
+
 
 
 
